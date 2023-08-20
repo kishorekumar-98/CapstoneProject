@@ -3,7 +3,7 @@
 <suite name="TestSuite">
   <test name="ContactPageTest">
 	  <classes>
-           <!--<class name="CaseStudy3_1.ContactpageTest"/> -->
+           <class name="CaseStudy3_1.ContactpageTest"/>
             <class name="CaseStudy3_2.FlipkartTest"/>
         </classes>
   </test> 
